@@ -1,0 +1,11 @@
+Comments,Model Score,Label
+"""Lol, this is great!""",0.05,Non-toxic
+"""I appreciate the detailed explanation you provided.""",0.009,Non-toxic
+"""Thanks for sharing!""",0.007,Non-toxic
+"""The article was informative and well-written.""",0.01,Non-toxic
+"""You're an idiot!""",0.92,Toxic
+"""I can't believe someone as stupid as you exists.""",0.9,Toxic
+"""Interesting topic!""",0.008,Non-toxic
+"""OMG, this is so cool and amazing!""",0.03,Non-toxic
+"""You're a moron!""",0.9,Toxic
+"""I disagree with your opinion, but respect your right to express it.""",0.02,Non-toxic
